@@ -20,7 +20,7 @@ class App extends Component {
 }
 
 /****** DO NOT DELETE AFTER THIS LINE ******/
-
+// This is comment
 ReactDOM.render(
   <App />,
   document.getElementById('root')
